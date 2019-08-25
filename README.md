@@ -1,4 +1,4 @@
-# Codebase for the blog post [#HOWTO: PDF preview with React](https://rieckpil.de/howto-pdf-preview-with-react/)
+# REACT READER PDF
 
 Steps to run this project:
 
